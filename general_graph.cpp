@@ -8,6 +8,7 @@ typedef long long ll;
 
 using namespace std;
 
+
 // v -> {u, sqrt(p)}
 vector < vector < pair < int, ld > > > g;
 

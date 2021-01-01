@@ -10,7 +10,6 @@ typedef long long ll;
 using namespace std;
 
 
-
 struct poly{
     int n;
     vector<ld> a;
