@@ -77,7 +77,7 @@ vector < ld > T;
 vector < ld > N;
 
 int main() {
-	freopen("poly.txt", "r", stdin);
+    freopen("poly.txt", "r", stdin);
     cout << fixed;
     cout << setprecision(5);
     cin >> n;
